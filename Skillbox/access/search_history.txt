@@ -1,0 +1,2 @@
+/Users/ivankorobov/PycharmProjects/Skillbox/access/task2.py
+/Users/ivankorobov/PycharmProjects/Skillbox/access/task6.py

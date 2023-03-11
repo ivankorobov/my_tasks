@@ -1,0 +1,22 @@
+import time
+print("|\tG\t|")
+time.sleep(0.7)
+print("|\tL\t|")
+time.sleep(0.7)
+print("|\tA\t|")
+time.sleep(0.7)
+print("|\tM\t|")
+time.sleep(1.1)
+print("|\tO\t|")
+time.sleep(0.9)
+print("|\tR\t|")
+time.sleep(0.8)
+print("|\tO\t|")
+time.sleep(0.5)
+print("|\tU\t|")
+time.sleep(0.5)
+print("|\tS\t|")
+time.sleep(0.5)
+print("|  yeah |")
+
+
